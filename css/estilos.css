@@ -1,0 +1,38 @@
+body {
+    background-image: url("file:///C:/Users/canal/OneDrive/%C3%81rea%20de%20Trabalho/wallpeer/adesivo-de-parede-personalizado-metro-quadrado-D_NQ_NP_913411-MLB20535598751_012016-F.jpg");
+    background-size: auto 100vh;
+    font-family: Arial;
+    height: 100vh;
+}
+
+.menu {
+    background-color: gray
+}
+
+.menu ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu li {
+    list-style: none;
+}
+
+a {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.site-subtitle,
+.site-title {
+    text-align: center;
+    color: whitesmoke;
+}
+
+.site-subtitle {
+    font-style: italic;
+}
